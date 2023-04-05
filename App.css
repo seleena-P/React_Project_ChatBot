@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  top: 50%;
+}
+
+.chat-message{
+  background-color:#EBEDEF;
+  margin: 1em 25em;
+  padding: 1em;
+  max-height: 450px;
+  overflow-y: auto;
+  border-radius: 25px;
+  color: gray;
+}
+
+.message-right{
+  background:#ADD8E6;
+  border-radius: 25px;
+  padding: .5em 1em;
+  margin: 1em;
+}
+.message-left{
+  background: aliceblue;
+  border-radius: 25px;
+  padding: .5em 1em;
+  margin: 1em;
+}
+
+.message-text{
+  font-size: 20px;
+}
+
+.message-icon{
+  font-size: 25px;
+  margin: 5px;
+}
